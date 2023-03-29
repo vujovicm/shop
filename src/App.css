@@ -54,7 +54,6 @@
   border-radius: 10px;
   background-color: rgb(236, 187, 203);
   position: relative;
-  
 }
 
 .h2 {
@@ -66,7 +65,6 @@
   background-color: lightgrey;
   cursor: default;
   border-radius: 10px;
-
 }
 
 label {
@@ -83,14 +81,14 @@ label {
 .card p {
   font-size: 1rem;
   line-height: 1.5;
-  margin: .8em 0;
+  margin: 0.8em 0;
 }
 
 .button {
-  padding: 10%;  
+  padding: 10%;
   margin: 10%;
   align-self: center;
-  font-size: medium;  
+  font-size: medium;
 }
 
 .dropdown-menu {
@@ -101,7 +99,7 @@ label {
   border: 1px solid;
   border-radius: 1%;
   overflow: auto;
-  background-color: rgb(159, 150, 159);  
+  background-color: rgb(159, 150, 159);
   border: 1px solid #eaeaea;
   border-radius: 10px;
 }

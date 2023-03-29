@@ -1,101 +1,101 @@
 [
-    {
-        "title": "A",
-        "id": "A",
-        "description": "1st letter",
-        "price": 200.00,
-        "available": false, 
-        "sale": null,
-        "image": "/images/A.jpg"
-    },
+  {
+    "title": "A",
+    "id": "A",
+    "description": "1st letter",
+    "price": 200.0,
+    "available": false,
+    "sale": null,
+    "image": "/images/A.jpg"
+  },
 
-    {
-        "title": "B",
-        "id": "B",
-        "description": "2nd letter",
-        "price": 50.00,
-        "available": true,
-        "sale": 10,
-        "image": "/images/B.jpg"
-    },
+  {
+    "title": "B",
+    "id": "B",
+    "description": "2nd letter",
+    "price": 50.0,
+    "available": true,
+    "sale": 10,
+    "image": "/images/B.jpg"
+  },
 
-    {
-        "title": "C",
-        "id": "C",
-        "description": "3rd letter",
-        "price": 300.00,
-        "available": true,
-        "sale": 50,
-        "image": "/images/C.jpg"
-    },
+  {
+    "title": "C",
+    "id": "C",
+    "description": "3rd letter",
+    "price": 300.0,
+    "available": true,
+    "sale": 50,
+    "image": "/images/C.jpg"
+  },
 
-    {
-        "title": "D",
-        "id": "D",
-        "description": "4th letter",
-        "price": 100.00,
-        "available": true,
-        "sale": null,
-        "image": "/images/D.jpg"
-    },
+  {
+    "title": "D",
+    "id": "D",
+    "description": "4th letter",
+    "price": 100.0,
+    "available": true,
+    "sale": null,
+    "image": "/images/D.jpg"
+  },
 
-    {
-        "title": "E",
-        "id": "E",
-        "description": "5th letter",
-        "price": 450.00,
-        "available": true,
-        "sale": null,
-        "image": "/images/E.jpg"
-    },
+  {
+    "title": "E",
+    "id": "E",
+    "description": "5th letter",
+    "price": 450.0,
+    "available": true,
+    "sale": null,
+    "image": "/images/E.jpg"
+  },
 
-    {
-        "title": "F",
-        "id": "F",
-        "description": "6th letter",
-        "price": 500.00,
-        "available": true,
-        "sale": null,
-        "image": "/images/F.jpg"
-    },
+  {
+    "title": "F",
+    "id": "F",
+    "description": "6th letter",
+    "price": 500.0,
+    "available": true,
+    "sale": null,
+    "image": "/images/F.jpg"
+  },
 
-    {
-        "title": "G",
-        "id": "G",
-        "description": "7th letter",
-        "price": 52.00,
-        "available": true,
-        "sale": null,
-        "image": "/images/G.jpg"
-    },
+  {
+    "title": "G",
+    "id": "G",
+    "description": "7th letter",
+    "price": 52.0,
+    "available": true,
+    "sale": null,
+    "image": "/images/G.jpg"
+  },
 
-    {
-        "title": "M",
-        "id": "M",
-        "description": "13th letter",
-        "price": 130.00,
-        "available": true,
-        "sale": 60,
-        "image": "/images/M.jpg"
-    },
-    
-    {
-        "title": "V",
-        "id": "V",
-        "description": "22nd letter",
-        "price": 320.00,
-        "available": true,
-        "sale": null,
-        "image": "/images/V.jpg"
-    },
+  {
+    "title": "M",
+    "id": "M",
+    "description": "13th letter",
+    "price": 130.0,
+    "available": true,
+    "sale": 60,
+    "image": "/images/M.jpg"
+  },
 
-    {
-        "title": "Z",
-        "id": "Z",
-        "description": "The last letter",
-        "price": 100.00,
-        "available": true,
-        "sale": 20,
-        "image": "/images/Z.jpg"
-    }
+  {
+    "title": "V",
+    "id": "V",
+    "description": "22nd letter",
+    "price": 320.0,
+    "available": true,
+    "sale": null,
+    "image": "/images/V.jpg"
+  },
+
+  {
+    "title": "Z",
+    "id": "Z",
+    "description": "The last letter",
+    "price": 100.0,
+    "available": true,
+    "sale": 20,
+    "image": "/images/Z.jpg"
+  }
 ]
