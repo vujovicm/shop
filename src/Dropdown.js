@@ -12,7 +12,6 @@ export default function Dropdown({ placeHolder, options, updateSortOption }) {
   };
 
   const selectOption = (option) => {
-    //console.log(option);
     setSelectedOption(option);
     setShowDropdown(false);
     updateSortOption(option); // call parent function to send this option to it

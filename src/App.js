@@ -59,7 +59,6 @@ function App() {
       const filteredProducts = productsJson.filter(
         (p) => p.available === checkValue
       );
-      console.log(filteredProducts);
       setProducts(filteredProducts);
     } else {
       setProducts(productsJson);
